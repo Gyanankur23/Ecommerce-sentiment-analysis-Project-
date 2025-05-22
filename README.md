@@ -1,8 +1,5 @@
 # Ecommerce Sentiment Analysis Project 📊🛒
 
-![Ecommerce Sentiment Analysis](output/sentiment_pie_chart.png)
-
----
 
 ## Project Overview 🚀
 
@@ -67,6 +64,7 @@ Positive reviews, negative reviews, and neutral reviews are classified based on 
 
 A pie chart visually represents the sentiment distribution, helping quickly understand customer feedback trends.
 
+![Ecommerce Sentiment Analysis](output/sentiment_pie_chart.png)
 
 
 ---
